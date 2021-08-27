@@ -13,8 +13,6 @@ All Stocks performed well except "TERP" and If we see the result of the stock th
 
 DQ Analysis: +ve 199.4% 
 
-DQ Analysis: -ve 62.6% 
-
 # Image DQ Analysis
 
 ![DQ Analysis](
@@ -34,6 +32,8 @@ DQ Analysis: -ve 62.6%
 **DQ Analysis for Year 2018:**
 
 All Stocks under performed  except "ENPH" amd "RUN" and If we see the result of the stock that Steve's parents considering(DQ) has negative ROI of 62.6% for year 2018
+
+DQ Analysis: -ve 62.6% 
 
 # Image: Stock Anaysis 2018
 
