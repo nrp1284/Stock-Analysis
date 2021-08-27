@@ -7,7 +7,7 @@
 
 Steve wants to find the total daily volume and yearly return for each stock to measures how actively a stocks are trade to see yearly return is the percentage difference in price from the beginning of the year to the end of the year. Steve's parents are starting to pester him about some selected stocks(EX:DQ) and he wants to analyze the entire data set of year 2017 and 2018 to see how well the ROI is for individual tickers.
 
-Analysis for Year 2017:
+**DQ Analysis for Year 2017:**
 
 All Stocks performed well except "TERP" and If we see the result of the stock that Steve's parents considering(DQ) has out perform all the tickers and has an ROI of 199.4%.
 
@@ -31,13 +31,13 @@ DQ Analysis: -ve 62.6%
     VBA_Challenge_2017-Refactored.png)
 
 
-Analysis for Year 2018:
+**DQ Analysis for Year 2018:**
 
-All Stocks under performed  except "ENPH" amd "RUN" and If we see the result of the stock that Steve's parents considering(DQ) has negative ROI of 62.6%.
+All Stocks under performed  except "ENPH" amd "RUN" and If we see the result of the stock that Steve's parents considering(DQ) has negative ROI of 62.6% for year 2018
 
 # Image: Stock Anaysis 2018
 
-![Stock Analysis 2017](
+![Stock Analysis 2018](
     VBA_Challenge_2018-Refactored.png)
 
 
