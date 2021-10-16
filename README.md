@@ -5,7 +5,7 @@
 
 #Overview of Project:
 
-Steve wants to find the total daily volume and yearly return for each stock to measures how actively a stocks are trade to see yearly return is the percentage difference in price from the beginning of the year to the end of the year. Steve's parents are starting to pester him about some selected stocks(EX:DQ) and he wants to analyze the entire data set of year 2017 and 2018 to see how well the ROI is for individual tickers.
+Client wants to find the total daily volume and yearly return for each stock to measures how actively a stocks are trade to see yearly return is the percentage difference in price from the beginning of the year to the end of the year. Steve's parents are starting to pester him about some selected stocks(EX:DQ) and he wants to analyze the entire data set of year 2017 and 2018 to see how well the ROI is for individual tickers.
 
 **DQ Analysis for Year 2017:**
 
