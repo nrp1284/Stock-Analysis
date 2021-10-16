@@ -61,7 +61,7 @@ _ve return on Investment was -7.2% for "TERP" Only
 
 # Image showing execution times of the original script run time.
 
-![Stock Analysis not Refactores](resources/VBA_Challenge_2017-NotRefactored.png)
+![Stock_Analysis_ notRefactored](resources/VBA_Challenge_2017_NotRefactored.png)
 
 
 Over All 2017 results were best for ROI for All stocks Analysis
